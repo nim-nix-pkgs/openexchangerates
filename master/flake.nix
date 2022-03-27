@@ -11,6 +11,7 @@
   inputs.src-openexchangerates-master.ref   = "refs/heads/master";
   inputs.src-openexchangerates-master.owner = "juancarlospaco";
   inputs.src-openexchangerates-master.repo  = "nim-openexchangerates";
+  inputs.src-openexchangerates-master.dir   = "";
   inputs.src-openexchangerates-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
