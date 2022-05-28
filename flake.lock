@@ -44,11 +44,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653690032,
-        "narHash": "sha256-WR7/+RB0oGwfqXnauEgimu6d2DytPz831SUYiyEwfJE=",
+        "lastModified": 1653696636,
+        "narHash": "sha256-yeK7oRD0CeRNKszdM7r4OSPZ/9j3gwkyPch0D1w3sw0=",
         "owner": "nim-nix-pkgs",
         "repo": "openexchangerates",
-        "rev": "5342197d16e8ccbef0d00b3b907504f9f0a9aa39",
+        "rev": "56f764f641b02b0f27d150dae2279d85867d360d",
         "type": "github"
       },
       "original": {
